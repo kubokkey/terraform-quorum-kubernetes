@@ -1,0 +1,6 @@
+[submodule "quorum"]
+	path = quorum
+	url = https://github.com/ConsenSys/quorum.git
+[submodule "quorum-kubernetes"]
+	path = quorum-kubernetes
+	url = https://github.com/ConsenSys/quorum-kubernetes.git
